@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background-image: url("/bg1.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+}
+* {
+  font-family: 'Comfortaa', cursive;
+}
+.capitalize {
+  text-transform: capitalize;
+}
